@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API.1.0.0.2.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:API.Fakes.ShimAPI">
+            <summary>Shim type of API.API</summary>
+        </member>
+        <member name="M:API.Fakes.ShimAPI.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:API.Fakes.ShimAPI.#ctor(API.API)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:API.Fakes.ShimAPI.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:API.Fakes.ShimAPI.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:API.Fakes.ShimAPI.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:API.Fakes.ShimAPI.Constructor">
+            <summary>Sets the shim of API.API()</summary>
+        </member>
+        <member name="P:API.Fakes.ShimAPI.StaticConstructor">
+            <summary>Sets the shim of API.API()</summary>
+        </member>
+        <member name="P:API.Fakes.ShimAPI.getFromXMLStringString">
+            <summary>Sets the shim of API.getFromXML(String typeName, String variableName)</summary>
+        </member>
+        <member name="P:API.Fakes.ShimAPI.getFunctions">
+            <summary>Sets the shim of API.getFunctions()</summary>
+        </member>
+        <member name="P:API.Fakes.ShimAPI.invokeApiFunctionString">
+            <summary>Sets the shim of API.invokeApiFunction(String method)</summary>
+        </member>
+        <member name="T:API.Fakes.ShimAPI.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:API.Fakes.StubAPI">
+            <summary>Stub type of API.API</summary>
+        </member>
+        <member name="M:API.Fakes.StubAPI.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:API.Fakes.StubAPI.InitializeStub">
+            <summary>Initializes a new instance of type StubAPI</summary>
+        </member>
+        <member name="P:API.Fakes.StubAPI.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:API.Fakes.StubAPI.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:API.Fakes.StubAPI.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

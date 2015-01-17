@@ -1,0 +1,4 @@
+D:\Programming\Projects\ListenerService\ListenerService\Fakes\API.fakes : warning : Cannot generate stub for API.ApiResponse: type is not visible to exported or assembly(API.1.0.0.2.Fakes).
+D:\Programming\Projects\ListenerService\ListenerService\Fakes\API.fakes : warning : Cannot generate stub for <PrivateImplementationDetails>{1C70A91E-0E07-4880-96F2-84FF1C828CFF}: type is not supported because of internal limitations.
+D:\Programming\Projects\ListenerService\ListenerService\Fakes\API.fakes : warning : Cannot generate shim for API.ApiResponse: type is not visible to exported or assembly(API.1.0.0.2.Fakes).
+D:\Programming\Projects\ListenerService\ListenerService\Fakes\API.fakes : warning : Cannot generate shim for <PrivateImplementationDetails>{1C70A91E-0E07-4880-96F2-84FF1C828CFF}: type is not supported because of internal limitations.

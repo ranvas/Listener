@@ -1,0 +1,31 @@
+c:\users\ibardin\documents\visual studio 2013\Projects\ListenerService\ListenerService\bin\Debug\ListenerService.exe.config
+c:\users\ibardin\documents\visual studio 2013\Projects\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+c:\users\ibardin\documents\visual studio 2013\Projects\ListenerService\ListenerService\bin\Debug\ListenerService.pdb
+c:\users\ibardin\documents\visual studio 2013\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.csprojResolveAssemblyReference.cache
+c:\users\ibardin\documents\visual studio 2013\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.myService.resources
+c:\users\ibardin\documents\visual studio 2013\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.ProjectInstaller.resources
+c:\users\ibardin\documents\visual studio 2013\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.csproj.GenerateResource.Cache
+c:\users\ibardin\documents\visual studio 2013\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.exe
+c:\users\ibardin\documents\visual studio 2013\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.pdb
+C:\Users\ibardin\Documents\VisualStudio2013\Projects\ListenerService\ListenerService\bin\Debug\ListenerService.exe.config
+C:\Users\ibardin\Documents\VisualStudio2013\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.exe
+C:\Users\ibardin\Documents\VisualStudio2013\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.pdb
+C:\Users\ibardin\Documents\VisualStudio2013\Projects\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+C:\Users\ibardin\Documents\VisualStudio2013\Projects\ListenerService\ListenerService\bin\Debug\ListenerService.pdb
+C:\Users\ibardin\Documents\VisualStudio2013\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.csprojResolveAssemblyReference.cache
+C:\Users\ibardin\Documents\VisualStudio2013\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.myService.resources
+C:\Users\ibardin\Documents\VisualStudio2013\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.ProjectInstaller.resources
+C:\Users\ibardin\Documents\VisualStudio2013\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.csproj.GenerateResource.Cache
+D:\Programming\Projects\ListenerService\ListenerService\bin\Debug\ListenerService.exe.config
+D:\Programming\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.exe
+D:\Programming\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.pdb
+D:\Programming\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.myService.resources
+D:\Programming\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.ProjectInstaller.resources
+D:\Programming\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.csproj.GenerateResource.Cache
+D:\Programming\Projects\ListenerService\ListenerService\bin\Debug\ListenerService.exe
+D:\Programming\Projects\ListenerService\ListenerService\bin\Debug\ListenerService.pdb
+D:\Programming\Projects\ListenerService\ListenerService\bin\Debug\ListenerService.exe.manifest
+D:\Programming\Projects\ListenerService\ListenerService\bin\Debug\ListenerService.application
+D:\Programming\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.exe.manifest
+D:\Programming\Projects\ListenerService\ListenerService\obj\Debug\ListenerService.application

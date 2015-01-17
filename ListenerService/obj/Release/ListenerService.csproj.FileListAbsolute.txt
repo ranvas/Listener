@@ -1,0 +1,51 @@
+D:\Programming\Projects\ListenerService\ListenerService\bin\Release\ListenerService.exe.config
+D:\Programming\Projects\ListenerService\ListenerService\bin\Release\ListenerService.exe
+D:\Programming\Projects\ListenerService\ListenerService\bin\Release\ListenerService.pdb
+D:\Programming\Projects\ListenerService\ListenerService\obj\Release\ListenerService.ProjectInstaller.resources
+D:\Programming\Projects\ListenerService\ListenerService\obj\Release\ListenerService.csproj.GenerateResource.Cache
+D:\Programming\Projects\ListenerService\ListenerService\obj\Release\ListenerService.exe
+D:\Programming\Projects\ListenerService\ListenerService\obj\Release\ListenerService.pdb
+D:\Programming\Projects\ListenerService\ListenerService\bin\Release\ListenerService.exe.manifest
+D:\Programming\Projects\ListenerService\ListenerService\bin\Release\ListenerService.application
+D:\Programming\Projects\ListenerService\ListenerService\obj\Release\ListenerService.exe.manifest
+D:\Programming\Projects\ListenerService\ListenerService\obj\Release\ListenerService.application
+D:\Programming\Projects\ListenerService\ListenerService\obj\Release\ListenerService.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\ListenerService\ListenerService\obj\Release\ListenerService.ListenerService.resources
+D:\Programming\Projects\ListenerService\ListenerService\bin\Release\Newtonsoft.Json.dll
+D:\Programming\Projects\ListenerService\ListenerService\bin\Release\Newtonsoft.Json.xml
+D:\Programming\Projects\ListenerService\ListenerService\bin\Release\API.dll
+D:\Programming\Projects\ListenerService\ListenerService\bin\Release\API.pdb
+C:\temp\ListenerService\ListenerService\bin\Release\ListenerService.exe.config
+C:\temp\ListenerService\ListenerService\obj\Release\ListenerService.exe
+C:\temp\ListenerService\ListenerService\obj\Release\ListenerService.pdb
+C:\temp\ListenerService\ListenerService\bin\Release\ListenerService.exe.manifest
+C:\temp\ListenerService\ListenerService\bin\Release\ListenerService.application
+C:\temp\ListenerService\ListenerService\bin\Release\ListenerService.exe
+C:\temp\ListenerService\ListenerService\bin\Release\ListenerService.pdb
+C:\temp\ListenerService\ListenerService\bin\Release\Newtonsoft.Json.dll
+C:\temp\ListenerService\ListenerService\bin\Release\Newtonsoft.Json.xml
+C:\temp\ListenerService\ListenerService\obj\Release\ListenerService.csprojResolveAssemblyReference.cache
+C:\temp\ListenerService\ListenerService\obj\Release\ListenerService.ListenerService.resources
+C:\temp\ListenerService\ListenerService\obj\Release\ListenerService.ProjectInstaller.resources
+C:\temp\ListenerService\ListenerService\obj\Release\ListenerService.csproj.GenerateResource.Cache
+C:\temp\ListenerService\ListenerService\obj\Release\ListenerService.exe.manifest
+C:\temp\ListenerService\ListenerService\obj\Release\ListenerService.application
+X:\random projects\ListenerService\ListenerService\bin\Release\ListenerService.exe.config
+X:\random projects\ListenerService\ListenerService\obj\Release\ListenerService.exe
+X:\random projects\ListenerService\ListenerService\obj\Release\ListenerService.pdb
+X:\random projects\ListenerService\ListenerService\bin\Release\ListenerService.exe.manifest
+X:\random projects\ListenerService\ListenerService\bin\Release\ListenerService.application
+X:\random projects\ListenerService\ListenerService\bin\Release\ListenerService.exe
+X:\random projects\ListenerService\ListenerService\bin\Release\ListenerService.pdb
+X:\random projects\ListenerService\ListenerService\bin\Release\Newtonsoft.Json.dll
+X:\random projects\ListenerService\ListenerService\bin\Release\Newtonsoft.Json.xml
+X:\random projects\ListenerService\ListenerService\obj\Release\ListenerService.ListenerService.resources
+X:\random projects\ListenerService\ListenerService\obj\Release\ListenerService.ProjectInstaller.resources
+X:\random projects\ListenerService\ListenerService\obj\Release\ListenerService.csproj.GenerateResource.Cache
+X:\random projects\ListenerService\ListenerService\obj\Release\ListenerService.exe.manifest
+X:\random projects\ListenerService\ListenerService\obj\Release\ListenerService.application
+X:\random projects\ListenerService\ListenerService\obj\Release\ListenerService.csprojResolveAssemblyReference.cache
+X:\random projects\ListenerService\ListenerService\bin\Release\App.config
+X:\random projects\ListenerService\ListenerService\bin\Release\API.dll
+X:\random projects\ListenerService\ListenerService\bin\Release\API.pdb
+X:\random projects\ListenerService\ListenerService\bin\Release\API.xml
