@@ -1,0 +1,34 @@
+﻿
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\programming\C#\listener\Listener\ListenerService\bin\Debug\ListenerService.exe.
+Данный файл находится в D:\programming\C#\listener\Listener\ListenerService\bin\Debug\ListenerService.InstallLog.
+
+На этапе установки возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\programming\C#\listener\Listener\ListenerService\bin\Debug\ListenerService.exe.
+Данный файл находится в D:\programming\C#\listener\Listener\ListenerService\bin\Debug\ListenerService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\programming\C#\listener\Listener\ListenerService\bin\Debug\ListenerService.exe.
+Данный файл находится в D:\programming\C#\listener\Listener\ListenerService\bin\Debug\ListenerService.InstallLog.
+
+На этапе установки возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\programming\C#\listener\Listener\ListenerService\bin\Debug\ListenerService.exe.
+Данный файл находится в D:\programming\C#\listener\Listener\ListenerService\bin\Debug\ListenerService.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.

@@ -19,7 +19,15 @@ namespace ListenerService
     public partial class ListenerService : ServiceBase
     {
         private Server.Model.MyServer server;
-        
+        ////Путь к файлу xml. В нем лежат описания функций и изменяемые переменные библиотеки
+        //private string ApiXmlFilePath
+        //{
+        //    get
+        //    {
+        //        RegistryKey key = Registry.LocalMachine.OpenSubKey(@"SOFTWARE\ListenerService");
+        //        return (string)key.GetValue("servicePath") + @"\API.xml";
+        //    }
+        //}
         public ListenerService()
         {
             InitializeComponent();
@@ -45,32 +53,29 @@ namespace ListenerService
             ListenerServiceLog.WriteEntry("Таймер сработал");
         }
         
+        
         protected override void OnStart(string[] args)
         {
             //определить адрес XML-файла конфигурации
-            string XMLFile = server.ApiXmlFilePath;
-            
-            XmlDocument doc = new XmlDocument();
+            //string XMLFile = ApiXmlFilePath;
+            //XmlDocument doc = new XmlDocument();
             try
             {
+                ////открыть XML-файл и считать строку подключения
+                //doc.Load(XMLFile);
+                //string connectionString = doc.SelectSingleNode(".//connectionString").Attributes["name"].Value;
+                ////поместить в реестр полученные значения
+                //RegistryKey key = Registry.CurrentUser.CreateSubKey("baily");
+                //key.SetValue("connectionString", connectionString);
+                //key.SetValue("XML", XMLFile);
+                //string test = (string)key.GetValue("XML");
                 server.start();
-                //открыть XML-файл и считать строку подключения
-                doc.Load(XMLFile);
-                string connectionString = doc.SelectSingleNode(".//connectionString").Attributes["name"].Value;
-                //поместить в реестр полученные значения
-                RegistryKey key = Registry.CurrentUser.CreateSubKey("baily");
-                key.SetValue("connectionString", connectionString);
-                key.SetValue("XML", XMLFile);
-                string test = (string)key.GetValue("XML");
             }
             catch(Exception ex)
             {
-                ListenerServiceLog.WriteEntry(ex.Message + (ex.InnerException)??ex.InnerException.Message);
+                ListenerServiceLog.WriteEntry(ex.Message + (ex.InnerException) ?? " " + ex.InnerException.Message);
                 server.stop();
             }
-
-
-            
             ListenerServiceLog.WriteEntry("Стартануло");
         }
 

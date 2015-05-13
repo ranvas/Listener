@@ -6,6 +6,7 @@ using System.Net.Sockets;
 using System.Net;
 using System.Threading;
 using System.IO;
+using Microsoft.Win32;
 
 namespace Server.Model
 {
@@ -87,14 +88,7 @@ namespace Server.Model
             { "json", "application/json"}
         };
 
-        //Путь к файлу xml. В нем лежат описания функций и изменяемые переменные библиотеки
-        public string ApiXmlFilePath
-        {
-            get 
-            {
-                return AppDomain.CurrentDomain.BaseDirectory + @"API.xml";
-            }
-        }
+
 
         private bool _running;
         private Socket _serverSocket;

@@ -69,10 +69,6 @@
     <SignAssembly>false</SignAssembly>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="API, Version=2.0.0.14, Culture=neutral, PublicKeyToken=3959b391fd4fbada, processorArchitecture=MSIL">
-      <HintPath>..\..\bailyAPI\API\API\bin\Debug\API.dll</HintPath>
-      <SpecificVersion>False</SpecificVersion>
-    </Reference>
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>.\Newtonsoft.Json.dll</HintPath>
@@ -149,7 +145,10 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="API.xml" />
+    <ProjectReference Include="..\..\..\bailyAPI\API\API\API.csproj">
+      <Project>{bab0d3e0-5489-42a5-affd-4742b362cfcf}</Project>
+      <Name>API</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

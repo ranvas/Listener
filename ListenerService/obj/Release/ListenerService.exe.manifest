@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="API.dll" size="35328">
-      <assemblyIdentity name="API" version="2.0.0.17" publicKeyToken="3959B391FD4FBADA" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="API.dll" size="34816">
+      <assemblyIdentity name="API" version="2.0.0.14" publicKeyToken="3959B391FD4FBADA" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>pJnrjyNVinwDScN0rzaJnwOGAoA=</dsig:DigestValue>
+        <dsig:DigestValue>x1k1O4SOC0Sq+dKrs9qmrdrAvic=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>i8MxPIC4eqF/qyWtHq4AoK/O6yI=</dsig:DigestValue>
+        <dsig:DigestValue>4LCw7ejQLY6VKOtXk3jzKtzYyWc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -77,22 +77,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="API.xml" size="5616" writeableType="applicationData">
+  <file name="ListenerService.exe.config" size="519">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>ZJgfZaH2wD4BVDG15vrOip4kx7w=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="ListenerService.exe.config" size="1064">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>TWh3nh7sNFSixiUWvTUofbOOk8E=</dsig:DigestValue>
+      <dsig:DigestValue>KgyDWSf8vNEzQuHqFFxzeK+RoPY=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

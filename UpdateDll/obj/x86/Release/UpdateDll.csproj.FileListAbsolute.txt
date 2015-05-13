@@ -1,5 +1,0 @@
-X:\random projects\ListenerService\UpdateDll\bin\Release\UpdateDll.exe
-X:\random projects\ListenerService\UpdateDll\bin\Release\UpdateDll.pdb
-X:\random projects\ListenerService\UpdateDll\obj\x86\Release\UpdateDll.exe
-X:\random projects\ListenerService\UpdateDll\obj\x86\Release\UpdateDll.pdb
-X:\random projects\ListenerService\UpdateDll\bin\Release\UpdateDll.exe.config
